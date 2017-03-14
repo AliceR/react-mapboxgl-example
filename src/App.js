@@ -43,7 +43,7 @@ class App extends Component {
       <MuiThemeProvider>
         <div className='App'>
           <div className='App-header'>
-            <h2>A single page application with react and mapbox-gl</h2>
+            <h2>React + Mapbox GL = &lt;3</h2>
           </div>
           <Map>
             <Source
