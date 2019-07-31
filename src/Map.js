@@ -17,7 +17,7 @@ class Map extends Component {
   })
 
   componentDidMount() {
-    MapboxGl.accessToken = 'pk.eyJ1IjoiYWxscnlkZXIiLCJhIjoidWs5cUFfRSJ9.t8kxvO3nIhCaAl07-4lkNw'
+    MapboxGl.accessToken = 'pk.eyJ1IjoiYWxpY2VhdGQyZCIsImEiOiJjaXRwa2Z2aW0wMDBoMzNxZnhzMjRweWY4In0.2IxUsrVVbFKal0J8OZSeOg'
 
     const map = new MapboxGl.Map({
       container: this.container,
