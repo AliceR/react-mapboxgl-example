@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "473374f86375708ada1c9cf0ade241fe",
+    "revision": "a50cc93db3fd1f69ab94bb6ccb7098a7",
     "url": "/react-mapboxgl-example/index.html"
   },
   {
-    "revision": "9054723cc5d51871fd57",
+    "revision": "9213b299356854d68dca",
     "url": "/react-mapboxgl-example/static/css/main.a8213cf2.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-mapboxgl-example/static/js/2.bfef6d58.chunk.js"
   },
   {
-    "revision": "9054723cc5d51871fd57",
-    "url": "/react-mapboxgl-example/static/js/main.04c26454.chunk.js"
+    "revision": "9213b299356854d68dca",
+    "url": "/react-mapboxgl-example/static/js/main.2ecadb0d.chunk.js"
   },
   {
     "revision": "dba087803030ce3e4613",
