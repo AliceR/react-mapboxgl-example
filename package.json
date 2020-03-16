@@ -4,17 +4,16 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "gh-pages": "^2.0.1",
-    "react-scripts": "^3.0.1"
+    "gh-pages": "^2.2.0",
+    "react-scripts": "^3.4.0"
   },
   "dependencies": {
     "lodash.merge": "^4.6.2",
-    "mapbox-gl": "^1.2.0",
+    "mapbox-gl": "^1.8.1",
     "material-ui": "^0.20.2",
     "prop-types": "^15.7.2",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "turf": "^3.0.14"
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
   },
   "scripts": {
     "start": "react-scripts start",
